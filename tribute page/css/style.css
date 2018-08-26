@@ -1,0 +1,20 @@
+body {
+    background-color: #222;
+}
+
+.container {
+    background-color: #D9D9D9;
+}
+
+.contain {
+    padding-top: 2px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#tribute {
+    background-color: #fff;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
